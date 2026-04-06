@@ -1,0 +1,11 @@
+export { default as Header } from './Header';
+export { default as Dashboard } from './Dashboard';
+export { default as StatCard } from './StatCard';
+export { default as BalanceTrendChart } from './BalanceTrendChart';
+export { default as SpendingByCategoryChart } from './SpendingByCategoryChart';
+export { default as TransactionList } from './TransactionList';
+export { default as TransactionForm } from './TransactionForm';
+export { default as Insights } from './Insights';
+export { default as BudgetManager } from './BudgetManager';
+export { default as Goals } from './Goals';
+export { default as GoalForm } from './GoalForm';
