@@ -8,7 +8,7 @@ import TransactionList from './TransactionList';
 import Insights from './Insights';
 import BudgetManager from './BudgetManager';
 import Goals from './Goals';
-import { formatCurrency } from '../utils/helpers';
+import { formatCurrency } from "../utils/Helpers";
 
 const Dashboard = () => {
   const {
