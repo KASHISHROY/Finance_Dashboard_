@@ -188,5 +188,5 @@ Deployed on Vercel for instant, automatic deployments.
 1. Go to **Goals** tab (Admin mode)
 2. Click **"Add Goal"**
 3. Set target amount
-4. Track progress automatically
+4. Track progress automatically.
 
